@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+  "*.jsx": "typescriptreact",
+  "*.js": "typescriptreact"
+},
+"commentTranslate.targetLanguage": "ru"
+}
