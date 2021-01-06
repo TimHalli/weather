@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TimHalli/final-project.git/static/css/main.3b8de9d7.chunk.css",
+    "main.js": "/TimHalli/final-project.git/static/js/main.fa28034f.chunk.js",
+    "main.js.map": "/TimHalli/final-project.git/static/js/main.fa28034f.chunk.js.map",
+    "runtime-main.js": "/TimHalli/final-project.git/static/js/runtime-main.3c480ceb.js",
+    "runtime-main.js.map": "/TimHalli/final-project.git/static/js/runtime-main.3c480ceb.js.map",
+    "static/js/2.25271185.chunk.js": "/TimHalli/final-project.git/static/js/2.25271185.chunk.js",
+    "static/js/2.25271185.chunk.js.map": "/TimHalli/final-project.git/static/js/2.25271185.chunk.js.map",
+    "index.html": "/TimHalli/final-project.git/index.html",
+    "static/css/main.3b8de9d7.chunk.css.map": "/TimHalli/final-project.git/static/css/main.3b8de9d7.chunk.css.map",
+    "static/js/2.25271185.chunk.js.LICENSE.txt": "/TimHalli/final-project.git/static/js/2.25271185.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c480ceb.js",
+    "static/js/2.25271185.chunk.js",
+    "static/css/main.3b8de9d7.chunk.css",
+    "static/js/main.fa28034f.chunk.js"
+  ]
+}
